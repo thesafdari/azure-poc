@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>PHP Test</title>
+        <title>POC TheSafdari</title>
     </head>
     <body>
-        <?php echo '<p>Hello World</p>'; ?>
+        <?php echo '<p>subdomain takeover by TheSafdari</p>'; ?>
     </body>
 </html>
