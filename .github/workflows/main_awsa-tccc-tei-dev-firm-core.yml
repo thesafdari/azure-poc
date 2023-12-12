@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'awsa-tccc-tei-dev-firm-core'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BFA6461AA8784A3E881FA6432C854B6C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56CDD366C26449F6B3F772394F3392DE }}
           package: .
